@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuh-Jer (Edward) Chang"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi! This is Edward, welcome to my homepage! This will be a website of acadamy,life and sharing!"
   location         : "Irvine, California"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "YUHJER"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
