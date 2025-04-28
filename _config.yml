@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuh-Jer (Edward) Chang"
+  name             : "Yuh-Jer Edward Chang"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Hi! This is Edward, welcome to my homepage! This will be a website of acadamy,life and sharing!"
+  bio              : "Phd Student in Biomedical Engineering at UC Irvine"
   location         : "Irvine, California"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -33,11 +33,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&authuser=1&user=ClgloL4AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : yuhjer
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
