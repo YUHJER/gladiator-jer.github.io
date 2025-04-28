@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now currently a first year Phd student studying Biomedical Engineering in UC Irvine.
+I am now currently a first year Phd student studying Biomedical Engineering in UC Irvine. Feel free to reach out to me at yuh.jer.chang[at]gmail.com
 
 Selected Experience
 ======
